@@ -1,51 +1,58 @@
-<!-- ====================== HEADER BANNER ====================== -->
-
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
-</p>
-
 <h1 align="center">Harsh Upadhyay</h1>
-<h3 align="center">Full Stack Developer | Secure Systems Builder | CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F7C948&size=24&center=true&vCenter=true&width=600&lines=Building+Secure+Web+Applications;Node.js+%7C+React.js+%7C+REST+APIs;Always+Learning+Always+Shipping;Future+Software+Engineer" />
+Full Stack Developer | Computer Science Engineering Student
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+Secure+Web+Applications;Node.js+%7C+React.js+%7C+REST+APIs;Focused+on+Clean+Architecture;Continuous+Learning+Mindset" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 B.Tech CSE Student (Parul University)  
-🚀 Full Stack Developer (Node.js + React.js)  
-🔐 Passionate about Secure & Scalable Systems  
-🌍 Based in Ahmedabad, Gujarat  
+I am a Computer Science Engineering student with practical experience in backend and full-stack development.
 
-> "Code. Build. Secure. Scale."
+I enjoy building secure and scalable web applications using modern technologies.
 
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,express,mysql,git,github,linux,vercel" />
-</p>
+Currently focused on improving backend architecture, API security, and system design fundamentals.
 
 ---
 
-## 🧠 Featured Projects
+## Tech Stack
 
-### 🔐 SecureEntry
-JWT-based authentication system with modern animated frontend.
+**Languages**  
+JavaScript | Python | Java | SQL  
 
-### 🌐 Personal Portfolio
-Full-stack portfolio with email integration & deployment.
+**Frontend**  
+HTML | CSS | React.js  
 
-### 📡 Off-Grid LoRa Communication
+**Backend**  
+Node.js | Express.js | REST APIs  
+
+**Database**  
+MySQL  
+
+**Tools & Deployment**  
+Git | GitHub | Linux | Vercel | Render  
+
+---
+
+## Featured Projects
+
+### SecureEntry  
+JWT-based authentication system with secure backend and modern UI.
+
+### Personal Portfolio  
+Full-stack portfolio website with contact form and email API integration.
+
+### Off-Grid LoRa Communication  
 Wireless communication system using LoRa technology.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshupcodes1&show_icons=true&theme=tokyonight" />
@@ -54,18 +61,6 @@ Wireless communication system using LoRa technology.
 
 ---
 
-## 🎯 Current Focus
-
-- Backend Architecture  
-- API Security  
-- System Design Fundamentals  
-- Internship Opportunities  
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshupcodes1&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=harshupcodes1&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/harshupcodes1/harshupcodes1/blob/output/github-contribution-grid-snake.svg)
