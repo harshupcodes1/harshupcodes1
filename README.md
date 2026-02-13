@@ -66,4 +66,4 @@ Wireless communication system using LoRa technology.
 </p>
 ## Contribution Activity
 
-![snake gif](https://github.com/harshupcodes1/harshupcodes1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/harshupcodes1/harshupcodes1/blob/main/.github/workflows/snake.yml)
