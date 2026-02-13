@@ -61,9 +61,4 @@ Wireless communication system using LoRa technology.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshupcodes1&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
-## Contribution Activity
 
-![snake gif](https://github.com/harshupcodes1/harshupcodes1/blob/main/.github/workflows/snake.yml)
