@@ -5,60 +5,48 @@ Full Stack Developer | Computer Science Engineering Student
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+Secure+Web+Applications;Node.js+%7C+React.js+%7C+REST+APIs;Focused+on+Clean+Architecture;Continuous+Learning+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+Secure+and+Scalable+Web+Applications;Node.js+%7C+React.js+%7C+REST+APIs;Backend+Focused+Developer;Continuous+Learning+and+Improvement" />
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science Engineering student with practical experience in backend and full-stack development.
+I am a Computer Science Engineering student with hands-on experience in full-stack web development.  
+My primary focus lies in backend development, where I build secure, scalable, and well-structured applications.
 
-I enjoy building secure and scalable web applications using modern technologies.
-
-Currently focused on improving backend architecture, API security, and system design fundamentals.
+I have practical experience working with RESTful APIs, authentication systems, and deployment workflows.  
+Currently, I am strengthening my knowledge in backend architecture, API security, and system design fundamentals.
 
 ---
+
 
 ## Tech Stack
 
-**Languages**  
-JavaScript | Python | Java | SQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,mysql,git,github,linux" />
+</p>
 
-**Frontend**  
-HTML | CSS | React.js  
 
-**Backend**  
-Node.js | Express.js | REST APIs  
-
-**Database**  
-MySQL  
-
-**Tools & Deployment**  
-Git | GitHub | Linux | Vercel | Render  
 
 ---
 
-## Featured Projects
+## Selected Projects
 
 ### SecureEntry  
-JWT-based authentication system with secure backend and modern UI.
+Developed a secure authentication system implementing JWT-based access control with a modern frontend interface.
 
 ### Personal Portfolio  
-Full-stack portfolio website with contact form and email API integration.
+Built and deployed a full-stack portfolio website with integrated contact form and email API functionality.
 
 ### Off-Grid LoRa Communication  
-Wireless communication system using LoRa technology.
+Designed a wireless communication system using LoRa technology for off-grid connectivity applications.
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshupcodes1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshupcodes1&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshupcodes1&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-j
 
